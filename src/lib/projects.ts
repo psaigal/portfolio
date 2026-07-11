@@ -9,5 +9,6 @@ export const projects: Project[] = [
     techStack: ["React.js", "Tailwind CSS", "TypeScript", "Prisma"],
     githubUrl: "https://github.com/psaigal/FormFit",
     liveUrl: "https://formfirst.vercel.app",
+    imageUrl: "/projects/formfit.png",
   },
 ];
